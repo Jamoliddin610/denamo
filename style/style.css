@@ -1,0 +1,112 @@
+.wd-hover-standard .wd-add-btn>a{
+    background: #FE3A19 ;
+}
+.elementor-8437 .elementor-element.elementor-element-3c0572e .wrapper-content-banner{
+    background: #FE3A19;
+}
+.wd-hover-standard .wd-add-btn>a:hover{
+    background: #FE3A19 ;
+}
+.menu-opener:after,.wd-nav-vertical>li.menu-item-has-children>a:after{
+    display: none;
+}
+.wd-nav-vertical>li.wd-more-cat-btn>a:after{
+    display: none;
+}
+#carousel-120{
+    height: 400px;
+}
+.menu-opener:not(.has-bg) {
+    background-color: #FE3A19;
+}
+.wd-nav.wd-style-underline .nav-link-text:after {
+    background-color:#FE3A19;
+}
+.whb-top-bar .wd-tools-element .wd-tools-icon:before {
+    font-size: 0px;
+}
+.wd-tools-element .wd-tools-count {
+    background: #FE3A19;
+}
+.searchform .searchsubmit:before,.searchform .searchsubmit:after, .searchform .searchsubmit img,.wd-header-cart .wd-tools-icon:before,.wd-header-wishlist .wd-tools-icon:before{
+    font-size: 0;
+}
+.wd-highlighted-products .elements-grid, .wd-highlighted-products.wd-carousel-container {
+    margin-right: 0;
+    margin-left: 0;
+    padding: 25px 20px 0 20px;
+    border: 2px solid #FE3A19;
+}
+.amount {
+    font-weight: 600;
+    color: #FE3A19;
+}
+.wd-title-style-underlined.wd-title-color-primary .title {
+    border-color: #FE3A19;
+}
+.elementor-8437 .elementor-element.elementor-element-3690f2a9 .wrapper-content-banner {
+    background-color: #FE3A19;
+}
+.elementor-5629 .elementor-element.elementor-element-0b33e69 .elementor-icon-list-item:hover .elementor-icon-list-text {
+    color: #FE3A19;
+}
+span.elementor-icon-list-text{
+    color: #FE3A19;    
+}
+.wd-header-cart.wd-design-2 .wd-cart-number, .wd-header-cart.wd-design-5 .wd-cart-number {
+    background-color: #FE3A19;
+}
+.wd-social-icons.icons-size-default .wd-icon {
+    font-size: 0px;
+}
+.wd-highlighted-products .owl-nav>div:after, .wd-highlighted-products .wrap-loading-arrow>div:after {
+    font-size: 0px;
+}
+
+.owl-prev.wd-btn-arrow.disabled{
+    width: 5px;
+height: 10px;
+border: 0;
+background: url(/img/chevron-left-solid.svg );
+cursor: pointer;
+z-index: 11;
+}
+
+.owl-prev.wd-btn-arrow{
+    width: 5px;
+height: 10px;
+border: 0;
+background: url(/img/chevron-left-solid.svg );
+cursor: pointer;
+z-index: 11;
+
+}
+.owl-next.wd-btn-arrow{
+    width: 5px;
+    height: 10px;
+    border: 0;
+    background: url(/img/chevron-right-solid.svg );
+    cursor: pointer;
+    z-index: 11;
+    margin-right: 50px;
+}
+.wd-highlighted-products.with-title .owl-nav>div, .wd-highlighted-products.with-title .wrap-loading-arrow>div {
+    position: static;
+    margin-top: 0;
+    width: 10px;
+    height: 17px;
+}
+.wd-highlighted-products.with-title .owl-nav {
+    top: -55px;
+    right: 20px;
+}
+.wd-btn-arrow {
+    margin: 0 3px;
+}
+.icons-design-simple .wd-social-icon:hover {
+    color: #fff !important;
+    background-color: #FE3A19;
+}
+.wd-header-mobile-nav .wd-tools-icon:before {
+    font-size: 0px;
+}
